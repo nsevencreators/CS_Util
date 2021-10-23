@@ -11,6 +11,9 @@ using StevenUtility;
 
 namespace StevenUtility
 {
+	/*****//**
+	 @brief Shared Memory Que
+	*/
     public class ShareMemQue
     {
         MemoryMappedFile _f;
